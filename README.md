@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamo Alejandro Duque de Estrada Márquez ✨ </h1> 
+<h1 align="center">Hola 👋, me llamo Alejandro Duque de Estrada Márquez ✨ </h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alejandro-duque-de-estrada-m%C3%A1rquez-6a3a4a336/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Alejandro Duque de Estrada" /></a>
@@ -7,8 +7,6 @@
 
 <br>
 <h2>Sobre mi 😃</h2>
-<!--Intro start-->
-
 <p align="left">
 🎓 Técnico superior de ASIR
 
@@ -17,18 +15,15 @@
 📝 Aptitudes principales: Buena comunicación, Trabajo en equipo, Capacidad de liderazgo, Interés por la tecnología en general ☺️.
 
 📫 Contacto: **alejandrodem02@gmail.com**
-<!--Intro end-->
-  </p>
+</p>
 <br>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=php,python,bash,linux,powershell,github,mysql,mariadb,vscode,sublimetext,js&perline=12" />
   </a>
 </p>
 <br>
-<!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
