@@ -21,7 +21,7 @@
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,bash,linux,powershell,github,mysql,mariadb,vscode,sublimetext,js&perline=12" />
+    <img src="https://skillicons.dev/icons?i=discord,php,py,bash,linux,powershell,github,mysql,vscode,js&perline=10" />
   </a>
 </p>
 <br>
